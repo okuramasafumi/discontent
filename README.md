@@ -1,24 +1,7 @@
-# README
+# Discontent
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Disco, content.
 
-Things you may want to cover:
+## What
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Discontent is a Rails application to manage contents. It is supposed to work as a content hub, collecting all things from RSS feed, LLM-generated contents, and everything else.
